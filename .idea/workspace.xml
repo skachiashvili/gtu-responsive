@@ -61,5 +61,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1080.-364.1080.1890@0.0.1920.1050" timestamp="1576102302044" />
+    <state x="-845" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1576105759706">
+      <screen x="-1080" y="-364" width="1080" height="1890" />
+    </state>
+    <state x="-845" y="403" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1080.-364.1080.1890@-1080.-364.1080.1890" timestamp="1576105759706" />
   </component>
 </project>
