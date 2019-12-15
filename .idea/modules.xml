@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/responsive.iml" filepath="$PROJECT_DIR$/.idea/responsive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gtu-responsive.iml" filepath="$PROJECT_DIR$/.idea/gtu-responsive.iml" />
     </modules>
   </component>
 </project>
