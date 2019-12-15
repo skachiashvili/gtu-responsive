@@ -8,3 +8,11 @@ setInterval(function() {
         .end()
         .appendTo("#slideshow");
 }, 5000);
+$(document).ready(function(){
+    $('.slider').slick({
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+});
+});
